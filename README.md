@@ -22,3 +22,7 @@ Technologies used : AJAX, Vanilla Javascript
 API used : http://www.icndb.com/api/ 
 
 Chuck Norris Jokes Generator lets you generate the jokes as many as you wish at a time. 
+
+4. east HTTP : 
+
+Easy HTTP is a custom library build using Ajax and callbacks, you can perform HTTP requests ( GET, POST, PUT, and DELETE).
